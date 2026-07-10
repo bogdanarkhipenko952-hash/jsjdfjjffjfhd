@@ -1,0 +1,8 @@
+{
+  "name": "PlayOS 5",
+  "description": "A console-like operating system interface with 4K dashboard experience, gamepad support, an integrated app store, and a playable 2D platformer with cloud saves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
